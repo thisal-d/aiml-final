@@ -1,1 +1,3 @@
 /results/models/random_forest_model.pkl
+/results/models/random_forest_model_baseline.pkl
+/results/models/random_forest_model_tuned.pkl
